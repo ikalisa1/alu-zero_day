@@ -1,1 +1,1 @@
-#!/bin/bash/necho "Best school" 
+#!/bin/bash\necho "Best school" 
